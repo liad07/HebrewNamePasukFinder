@@ -26,7 +26,7 @@ Tanakh Name Verse Finder is a Python script that allows you to find verses from 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Tanakh-Name-Verse-Finder.git
+   git clone https://github.com/liad07/HebrewNamePasukFinder.git
    ```
 
 2. Install required Python packages:
@@ -38,7 +38,7 @@ Tanakh Name Verse Finder is a Python script that allows you to find verses from 
 
 1. Run the script:
    ```bash
-   python find_verse_by_name.py
+   python sercher.py
    ```
 
 2. Enter a name when prompted.
